@@ -1,0 +1,6 @@
+Proje konusunu belirle: AKILLI KAPI ZİLİ
+proje klasörü oluştur: akilliKapiZili adında klasör
+HTML5 şablonunda banner da proje adı ve logosu olabilir. logo images/logo.png olarak tut.
+nav da Anasayfa, Proje Ekibi, İletişim Formu linkleri alt sayfalara bağlanacak. index.html, projeEkip.html, iletisim.html
+aside kısmı için kısa bir video üret proje konusunda.
+iletisim.html de form tasarımı yap.
