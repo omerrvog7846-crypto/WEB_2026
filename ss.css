@@ -1,0 +1,18 @@
+html{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    padding: auto;
+    border-color: paleturquoise;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+  
+     background-image:url(images.jpg);
+    background: size 70%;
+
+   
+    background-repeat:no-repeat;
+
+    background-attachment:fixed;
+}
